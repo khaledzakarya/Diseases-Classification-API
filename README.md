@@ -1,9 +1,8 @@
-# Diseases-Classification-API
 ---
 title: Disease Classification Model
 emoji: 🤖
-colorFrom: "#00C9FF"
-colorTo: "#92FE9D"
+colorFrom: blue
+colorTo: green
 sdk: gradio
 sdk_version: "3.0.0"
 app_file: app.py
